@@ -1,0 +1,151 @@
+{
+    "name": "Nisargkumar Mahyavanshi",
+    "contact": {
+      "phone": "+1 9057839587",
+      "email": "nisargkumar.dev@gmail.com",
+      "linkedin": "http://www.linkedin.com/in/nisargmahyavanshi",
+      "github": "https://github.com/Nisarg851"
+    },
+    "summary": "Results-oriented DevOps Engineer with a strong foundation in cloud infrastructure, automation, and CI/CD pipelines. Proven ability to design, implement, and optimize cloud-based solutions using AWS. Expertise in infrastructure as code, containerization, and scripting languages. Passionate about delivering efficient and reliable systems. Seeking a challenging role to leverage technical skills and contribute to high-performing DevOps teams.",
+    "skills_and_tools": {
+      "languages": [
+        {"cpp": "C / CPP"},
+        {"python": "Python"},
+        {"java": "JAVA"},
+        {"kotlin": "Kotlin"},
+        {"javascript": "Javascript"},
+        {"typescript": "Typescript"},
+        {"solidity": "Solidity"},
+        {"go": "Go"},
+        {"bash": "Bash"}
+      ],
+      "cloud_and_devops_tools": [
+        {"azure": "Azure"},
+        {"terraform": "Terraform"},
+        {"ansible": "Ansible"},
+        {"docker": "Docker"},
+        {"jenkins": "Jenkins"},
+        {"sonarqube": "Sonarqube"},
+        {"kubernetes": "Kubernetes"},
+        {"github_actions": "Github Actions"},
+        {"amplify": "AWS Amplify"},
+        {"iac": "Infra as Code"},
+        {"ci_cd": "CI / CD"},
+        {"cloud": "Cloud Computing"},
+        {"cda": "Certified Developer Associate"}
+      ],
+      "web_development": [
+        {"django": "Django"},
+        {"fastapi": "FastAPI"},
+        {"react": "React"},
+        {"tailwind": "Tailwind"},
+        {"css": "CSS"},
+        {"graphql": "GraphQL"},
+        {"bootstrap": "Bootstrap"},
+        {"scss": "SCSS"},
+        {"less": "Less"},
+        {"websocket": "Websocket Protocol"},
+        {"node": "Node.js"}
+      ],
+      "databases": [
+        {"postgres": "Postgres"},
+        {"mongodb": "MongoDB"}
+      ],
+      "misc": [
+        {"solution_architect": "Solution Architect"},
+        {"ai": "AI"},
+        {"ml": "Machine Learning"},
+        {"preprocessing": "Data Preprocessing"},
+        {"visulization": "Visulization"},
+        {"nlp": "Natural Language Processing"},
+        {"mobile": "Mobile Development"},
+        {"opensource": "OpenSource Contributions"},
+        {"blockchain": "Blockchain"},
+        {"android": "Android"}
+      ]
+    },
+    "work_experience": [
+      {
+        "role": "DevOps Engineer",
+        "duration": {
+          "start":"May 2024",
+          "end": "Present"
+        },
+        "organization": "Humber College",
+        "location": "Toronto, ON",
+        "responsibilities": [
+          "Led a cross-functional team of 5 to design, develop, and deploy a scalable AI-powered chatbot, ensuring on-time delivery under budget constraints.",
+          "Built a responsive, user-friendly frontend with ***React.js*** and ***TypeScript***, while architecting a high-performance backend using ***Python*** and ***FastAPI*** with a ***Serverless Architecture*** resulting in a 99.9% uptime and seamless user interactions.",
+          "Automated the CI/CD pipeline using ***GitHub Actions*** to manage testing, building, and deployment processes, which reduced manual deployment time by 50% and increased product reliability",
+          "Containerized applications using ***Docker***, ensuring consistency and streamlining the development-to-production workflow, improving deployment speed and environment parity.",
+          "Implemented ***JWT-based*** authentication to enhance application security and protect sensitive user data."
+        ]
+      },
+      {
+        "role": "DevOps Engineer",
+        "duration": {
+          "start":"May 2023",
+          "end": "Dec 2023"
+        },
+        "organization": "Apptist",
+        "location": "Toronto, ON",
+        "responsibilities": [
+          "Migrated backend infrastructure from ***Node.js*** to ***AWS Amplify***, leveraging ***AWS Cognito*** for multi-factor authentication (MFA) and ***AWS AppSync*** for GraphQL API management, improving scalability and data security.",
+          "Redesigned the database schema using ***AWS DynamoDB***, reducing query response times by 30% and enhancing overall application performance.",
+          "Developed a responsive UI with ***React.js***, leading to a 25% increase in user engagement and a smoother userexperience.",
+          "Optimized deployment processes by using ***AWS S3*** for static content hosting and ***CloudFront*** for global content delivery, cutting page load times by 50%",
+          "***Secured 1st place at the Humber Expo among 20 teams***, recognized for innovative use of AWS services and achieving a fully ***cloud-native*** architecture."
+        ]
+      },
+      {
+        "role": "Full-stack Developer",
+        "duration": {
+          "start":"Jan 2022",
+          "end": "Apr 2023"
+        },
+        "organization": "LocusLogs",
+        "location": "Gujarat, India",
+        "responsibilities": [
+          "Achieved a 30% increase in user activity over a week by enhancing the user experience with the help of ***Material Design's*** Guidelines for customization of UI, user adaptability, prioritization of notifications etc.",
+          "Significantly reduced business costs as measured by a 67% reduction in server maintenance bills by migrating the services to a more reliable and cheaper host. Lead a team of 4 to perform this migration which included the entire backend codebase to be shifted from .Net to ***Node.js*** for better performance and faster reponse time. Used yarn's Plug'n'Play to avoid the heavy node_module's problem",
+          "Improved Database schema in ***MySQL*** as observed from 15-17% improvement in memory-speed matrix by applying Normalization on the database to reduce the redundancies. Additionally, modified the Object-Relation Models to support this schema as well.",
+          "Improved Development lifecycle by decoupling the core JAVA modules of the application which resulted in faster version release cycle."
+        ]
+      },
+      {
+        "role": "Full-stack Developer Intern",
+        "duration": {
+          "start":"Aug 2021",
+          "end": "Dec 2021"
+        },
+        "organization": "LocusLogs",
+        "location": "Gujarat, India",
+        "responsibilities": [
+          "Developed a a Java-based vehicle tracking module integrated with ***Android SDK*** with 83% accuracy measured through 135 alpha tests on the attributes like precision of locus, delay time,acceleration, pivoting angles etc. Further extended this feature to keep record of the vehicle's moment's history and replay it on maps just like a media-player.",
+          "Redefined conversion matrix in ***JAVA*** for area coverage in Geo-Fencing module, resulting in an ~75% increase in accuracy, measured with direct comparison of approx. 55 test-cases.",
+          "Implemented Dynamic vehicle report generation functionality in JAVA with offline capabilities that was embraced by 12 out of 15 Industrial consumers of the product.",
+          "Improved Development lifecycle by decoupling the core modules of the application which resulted in faster version release cycle.Suggested and applied a more test driven approach using the ***JUnit*** library for ***Unit testing*** as well as creating and conducting the UI tests for the application during the build phase. Even-though it slowed the development process, the new developed features were realised to be more reliable and secure then before."
+        ]
+      }
+    ],
+    "projects": [27,1,2,3],
+    "education_and_certifications": [
+      {
+        "qualification": "AWS Certified Developer - Associate",
+        "date": "Oct 2024",
+        "institution": "Amazon Web Services Training and Certification"
+      },
+      {
+        "qualification": "Graduate Certification in Cloud Computing",
+        "duration": "Jan 2023 – Aug 2023",
+        "institution": "Humber (North Campus), Etobicoke, Canada"
+      },
+      {
+        "qualification": "Bachelor’s Degree in Computer Science and Engineering",
+        "duration": "July 2018 – June 2022",
+        "institution": "R.N.G. Patel Institute of Technology, Gujarat, India",
+        "cgpa": "9.2 / 10.0"
+      }
+    ]
+  }
+  
